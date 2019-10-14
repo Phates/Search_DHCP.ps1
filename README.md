@@ -1,5 +1,6 @@
 # Search_DHCP.ps1
 #DHCP_Search_and_Reservation_Tool in Shell
+
 Function Create-Form {
 
 	Add-Type -AssemblyName System.Windows.Forms
